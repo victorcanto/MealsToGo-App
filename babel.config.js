@@ -16,6 +16,7 @@ module.exports = function (api) {
                         ".json",
                     ],
                     alias: {
+                        "@assets": "./assets",
                         "@components": "./src/components",
                         "@features": "./src/features",
                         "@infra": "./src/infra",
